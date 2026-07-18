@@ -1,0 +1,3 @@
+"Scenario","Sample_Size","Number_Clean","Number_Outliers","Requested_Contamination","Realized_Contamination"
+"Clean",30,30,0,0,0
+"Contaminated",30,27,3,0.1,0.1
